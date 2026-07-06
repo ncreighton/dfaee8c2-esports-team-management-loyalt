@@ -1,2 +1,28 @@
-# dfaee8c2-esports-team-management-loyalt
-esports team professionals waste hours on wrestling with incompatible WordPress plugins that fight each other. This fixes that.  Compatible with all major WordPress themes and page builders. Regular security updates. Works with WordPress multisite.  ## What's Included  - Esports Team Management Loyalty Program And Rewards — fully configured and rea
+# Esports Team Management Loyalty Program and Rewards WordPress Plugin
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/14A6oH12D5wg3lm8nGcZF3J)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/14A6oH12D5wg3lm8nGcZF3J)
+
